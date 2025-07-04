@@ -1,0 +1,9 @@
+employee_id,heart_rate,blood_pressure,fatigue_score,job_role
+1,72,120,3,Engineer
+2,85,140,6,Operator
+3,60,110,2,Clerk
+4,90,150,7,Engineer
+5,80,130,4,Operator
+6,110,180,9,Manager
+7,95,160,8,Clerk
+8,65,115,3,Engineer
